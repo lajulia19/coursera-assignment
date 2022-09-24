@@ -1,0 +1,92 @@
+html, body {
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 16px;
+	background-color: #ebe0cc;
+	height: 100%;
+}
+
+button.navbar-toggle, .icon-bar {
+	border: 1px solid white;
+}
+
+#nav-list {
+	background-color: lightgrey;
+}
+
+#dropdown {
+	margin-bottom: 0px;
+}
+
+.navbar-nav {
+	margin-top: 0;
+}
+
+.navbar {
+background-color: #b38436;
+}
+
+.navbar-brand h1{
+	font-family: 'Handlee', cursive;
+	margin-right: 10px;
+	padding-left: 20px;
+	color: white;
+	font-size: 40px;
+}
+
+#logo-img {
+	background: url('../images/restaurant-logo.png') no-repeat;
+	width: 386px;
+	height: 140px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+#nav-list a {
+	color: #ebe0cc;
+	background-color: #b38436;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#nav-list a:hover {
+	background-color: #d9c29b ;
+	color: black;
+}
+
+
+#main-content h2 {
+	font-family: 'Dancing Script', cursive;
+	margin-top: 30px;
+	font-size: 38px;
+	font-weight: bold;
+	margin-bottom: 30px;
+
+}
+
+.row {
+	margin: 15px 5px 10px;
+	}
+
+
+#chicken-section, #beef-section, #sushi-section {
+	min-height: 700px;
+	width: 100%;
+	margin-bottom: 15px;
+  border: 1px solid black;
+	padding: 5px 10px;
+	background-color: #CFB78D;
+}
+
+#main-content {
+	margin-bottom: 10px;
+}
+
+
+.drop-shadow {
+box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;
+}
+
+h3 {
+	font-weight: bold;
+}
